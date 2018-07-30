@@ -1,0 +1,31 @@
+#info {
+	background: #f9c5f5;
+	color: #fff; 
+	text-align: center;
+	padding: 20px;
+}
+#info .contenedor {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.info-tienda {
+	margin: 20px;
+}
+.info-tienda img {
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	border: 7px solid #f988f0;
+}
+
+@media( min-width: 480px){
+	.info-tienda{
+		width: 40%;
+	}
+}
+@media( min-width: 1024px){
+	.info-tienda{
+		width: auto;
+	}
+}

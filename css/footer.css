@@ -1,0 +1,24 @@
+footer {
+	background: #FCCFFA;
+	text-align: center;
+}
+
+footer p {
+	text-align: justify;
+	color: #058E8A;
+}
+
+footer h5 {
+	color: #60058A;
+}
+ul.redessociales li {
+	 display: inline-block;                                                                             
+}
+
+ul.servicio li {
+	 display: inline-block;
+	 color: #058E8A;
+} 
+h3 {
+	color:#6C0D52;
+}
